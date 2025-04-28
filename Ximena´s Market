@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monchi Seoul</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Monchi Seoul</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#ramyeonitos">Ramyeonitos</a></li>
+                <li><a href="#bebiditas">Bebiditas</a></li>
+                <li><a href="#dulcecitos">Dulcecitos</a></li>
+                <li><a href="#caseritos">Caseritos Seoul</a></li>
+                <li><a href="#ajumma">Ajumma de los Tuppers</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="ramyeonitos">
+            <h2>Ramyeonitos</h2>
+            <p>¡Para los mejores ramen y sopas coreanas!</p>
+            <img src="https://pin.it/3pyMnMguC" alt="Imagen de ramen">
+        </section>
+
+        <section id="bebiditas">
+            <h2>Bebiditas</h2>
+            <p>¡Las mejores bebidas coreanas a tu alcance!</p>
+            <img src="https://pin.it/7AJrBlECm" alt="Imagen de bebida">
+        </section>
+
+        <section id="dulcecitos">
+            <h2>Dulcecitos</h2>
+            <p>¡Dulces coreanos para un antojo irresistible!</p>
+            <img src="https://pin.it/5ZY93umHW" alt="Imagen de dulces">
+        </section>
+
+        <section id="caseritos">
+            <h2>Caseritos Seoul</h2>
+            <p>¡Todo lo que necesitas para cocinar tu comida coreana en casa!</p>
+            <img src="https://pin.it/4ik16bBzs" alt="Imagen de condimentos y pastas">
+        </section>
+
+        <section id="ajumma">
+            <h2>Ajumma de los Tuppers</h2>
+            <p>¡Los mejores recipientes para tu ramen y snacks!</p>
+            <img src="https://pin.it/6RQREj07Z" alt="Imagen de tupper y palillos">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Monchi Seoul - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
